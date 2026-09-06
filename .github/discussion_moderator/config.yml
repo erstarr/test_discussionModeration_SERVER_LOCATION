@@ -1,0 +1,10 @@
+# Users who can use /close <reason>
+closers:
+
+# Users who can use /strike [@user]
+strikers:
+
+# Users who can use /ban @user <reason> as well as do perform any other command
+moderators:
+  - erstarr
+  - wabarTM
