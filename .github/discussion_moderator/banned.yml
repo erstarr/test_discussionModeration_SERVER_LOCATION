@@ -1,1 +1,4 @@
-
+erstarr:
+  banned_by: __system__
+  reason: 'Auto-ban: reached 4 strikes'
+  timestamp: '2026-09-07T02:20:14.080837+00:00'
